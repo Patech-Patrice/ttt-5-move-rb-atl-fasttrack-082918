@@ -10,6 +10,8 @@ end
 def input_to_index("1" - "9")
 end
 
+def move 
+
 
 
   
